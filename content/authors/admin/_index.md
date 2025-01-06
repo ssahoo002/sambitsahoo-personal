@@ -19,13 +19,13 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Role/position/tagline
-# role: Chief Scientist
+Role/position/tagline
+role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
-# organizations:
-#   - name: OpenAI
-#     url: https://openai.com/
+organizations:
+  - name: OpenAI
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
